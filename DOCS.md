@@ -55,3 +55,5 @@ sudo apt install unzip
 unzip lionwiki-3.2.11.zip
 
 sudo cp -r lionwiki-3.2.11 /var/www/html/
+
+cd lionwiki-3.2.11
