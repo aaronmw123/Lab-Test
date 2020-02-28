@@ -41,3 +41,5 @@ sudo service nginx reload
 cd /var/www/html/
 
 nano info.php
+
+*paste <?php phpinfo(); ?> to info.php*
