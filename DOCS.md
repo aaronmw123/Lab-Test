@@ -39,3 +39,5 @@ sudo nginx -t
 sudo service nginx reload
 
 cd /var/www/html/
+
+nano info.php
