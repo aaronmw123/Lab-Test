@@ -51,3 +51,5 @@ nano info.php
 wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2.11.zip
 
 sudo apt install unzip
+
+unzip lionwiki-3.2.11.zip
