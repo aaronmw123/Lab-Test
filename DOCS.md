@@ -27,3 +27,5 @@ mv -T default midtest
 nano midtest
 
 *changed the items*
+
+sudo nginx -t
