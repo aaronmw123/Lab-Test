@@ -69,3 +69,5 @@ sudo cp -r var /var/www/html/
 nano index.php
 
 *check browser for localhost/index.php*
+
+*edit dan masukan text sesuai dengan template*
