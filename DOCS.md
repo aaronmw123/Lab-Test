@@ -11,3 +11,5 @@ sudo mysql_secure_installation
 *unninstall mariadb*
 
 sudo service mysql start
+
+sudo mysql_secure_installation
