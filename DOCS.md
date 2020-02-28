@@ -65,3 +65,5 @@ sudo cp -r lang /var/www/html/
 sudo cp -r plugins /var/www/html/
 sudo cp -r templates /var/www/html/
 sudo cp -r var /var/www/html/
+
+nano index.php
