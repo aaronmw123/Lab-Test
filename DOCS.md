@@ -21,3 +21,5 @@ cd /etc/nginx/sites-available/
 cp -t ~/raka default
 
 *return to home folder*
+
+mv -T default midtest
