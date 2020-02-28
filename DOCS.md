@@ -43,3 +43,5 @@ cd /var/www/html/
 nano info.php
 
 *paste <?php phpinfo(); ?> to info.php*
+
+*check browser localhost/info.php*
