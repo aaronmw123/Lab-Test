@@ -7,3 +7,5 @@ sudo systemctl enable nginx
 sudo service nginx start
 
 sudo mysql_secure_installation
+
+*unninstall mariadb*
