@@ -67,3 +67,5 @@ sudo cp -r templates /var/www/html/
 sudo cp -r var /var/www/html/
 
 nano index.php
+
+*check browser for localhost/index.php*
