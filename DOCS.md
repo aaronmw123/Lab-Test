@@ -57,3 +57,11 @@ unzip lionwiki-3.2.11.zip
 sudo cp -r lionwiki-3.2.11 /var/www/html/
 
 cd lionwiki-3.2.11
+
+sudo cp -r config.php /var/www/html/
+sudo cp -r html /var/www/html/
+sudo cp -r index.php /var/www/html/
+sudo cp -r lang /var/www/html/
+sudo cp -r plugins /var/www/html/
+sudo cp -r templates /var/www/html/
+sudo cp -r var /var/www/html/
