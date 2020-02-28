@@ -29,3 +29,5 @@ nano midtest
 *changed the items*
 
 sudo nginx -t
+
+sudo ln -s /etc/nginx/sites-available/midtest /etc/nginx/sites-enabled/
