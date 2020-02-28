@@ -17,3 +17,5 @@ sudo mysql_secure_installation
 mkdir "raka"
 
 cd /etc/nginx/sites-available/
+
+cp -t ~/raka default
