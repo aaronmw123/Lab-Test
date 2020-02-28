@@ -13,3 +13,5 @@ sudo mysql_secure_installation
 sudo service mysql start
 
 sudo mysql_secure_installation
+
+mkdir "raka"
