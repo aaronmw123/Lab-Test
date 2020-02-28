@@ -23,3 +23,5 @@ cp -t ~/raka default
 *return to home folder*
 
 mv -T default midtest
+
+nano midtest
