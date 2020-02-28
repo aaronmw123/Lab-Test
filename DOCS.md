@@ -37,3 +37,5 @@ sudo unlink /etc/nginx/sites-enabled/default
 sudo nginx -t
 
 sudo service nginx reload
+
+cd /var/www/html/
