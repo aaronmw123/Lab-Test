@@ -15,3 +15,5 @@ sudo service mysql start
 sudo mysql_secure_installation
 
 mkdir "raka"
+
+cd /etc/nginx/sites-available/
