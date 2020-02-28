@@ -45,3 +45,8 @@ nano info.php
 *paste <?php phpinfo(); ?> to info.php*
 
 *check browser localhost/info.php*
+
+-------------------------------------------
+
+wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2.11.zip
+
