@@ -25,3 +25,5 @@ cp -t ~/raka default
 mv -T default midtest
 
 nano midtest
+
+*changed the items*
