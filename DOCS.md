@@ -33,3 +33,5 @@ sudo nginx -t
 sudo ln -s /etc/nginx/sites-available/midtest /etc/nginx/sites-enabled/
 
 sudo unlink /etc/nginx/sites-enabled/default
+
+sudo nginx -t
